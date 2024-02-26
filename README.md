@@ -6,7 +6,7 @@ Criar um comando para ser utilizado no Console.log que consegue extrair as pinci
 </p>
 
 <p align = "center">
-<img alt="Resultado" src="./img/Resultado.png" widgth = "100%">
+<img alt="Resultado" src="Resultado.png" widgth = "100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -17,3 +17,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 Utilizar o Query para extrair informações da página.
+
+## 🌐 Página Utilizada
+https://br.openfoodfacts.org/produto/7891515439118/empanado-de-frango-em-iscas-sadia-pacote-300g
